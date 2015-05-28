@@ -3,3 +3,5 @@ changes after first commit zhuravok
 dfg
 
 gfjhjk
+
+add khom
