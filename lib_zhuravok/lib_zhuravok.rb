@@ -3,6 +3,8 @@
     @who = who
   end
   def greet
-    "Hello, #{@who}"
+    "Hello, #{@who}!"
   end
 end
+
+
